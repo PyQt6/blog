@@ -17,3 +17,6 @@ Changelog
 1。添加ffmpeg相关
 2。添加shell相关
 
+1.0.5.20210616
+1。github.md更新
+
